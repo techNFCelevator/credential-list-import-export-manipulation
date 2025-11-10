@@ -1,0 +1,5 @@
+ID               Profile                              Fares              
+-------------------------------------------------------------------------
+0101123456781290 Concession                           Stored Value:250.00
+2021345678901234 General                              Stored Value:50.00 
+9876545678923456 Personalized:Jeremy:Leung:1994-07-07 Stored Value:500.00

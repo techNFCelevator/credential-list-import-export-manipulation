@@ -1,0 +1,4 @@
+ID|FARES|PROFILE
+1010234598764765|Stored Value:100.00|General
+0101123456781290|Stored Value:250.00|Concession
+9876545678923456|Stored Value:500.00|Personalized:Jeremy:Leung:1994-07-07
